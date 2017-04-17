@@ -251,11 +251,14 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Views\Shared\_home.cshtml" />
+    <Content Include="Views\Shared\_home_ori.cshtml" />
     <Content Include="Views\Home\Home.cshtml" />
+    <Content Include="Views\Shared\_menu.cshtml" />
+    <None Include="Views\Shared\_home.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\img\" />
     <Folder Include="Content\vender\bootstrap\css\" />
     <Folder Include="Content\vender\bootstrap\js\" />
     <Folder Include="Content\vender\flat-icon\fonts\" />
